@@ -1,9 +1,9 @@
-# Ata de Reunião Semanal
+# Ata de Reunião Semanal - Nome do Projeto
 
 ## Informações
 **Data/hora:** data, hora  
 **Local:** local da reunião  
-**Meeting Purpose:** meeting_purpose  
+**Motivo da reunião:** motivo da reunião
 **Secretário:** responsável pela ata  
 
 ## Participantes
@@ -19,7 +19,7 @@ Item | Descrição
 Item de Agenda 1 | • <br>• <br>• <br>• <br>• 
 Item de Agenda 2 | • <br>• <br>• <br>• <br>• 
 
-## Notas e Discussões
+## Notas e Decisões
 Item | Quem | Anotações |
 ---- | ---- | ---- |
 item | quem | anotações |
