@@ -11,8 +11,12 @@
 
 Professores:
 
-** Prof. NOme do Prof 1 **
-** Prof. NOme do Prof 2 **
+**Hugo Bastos de Paula**
+
+**Eveline Alonso Veloso**
+
+**Thiago Augusto Nicolini Silva**
+
 
 ---
 
