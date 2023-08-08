@@ -1,9 +1,8 @@
 # Artefatos do projeto
 
-Liste os artefatos produzidos, com suas localizaçãoes e descrição do conteúdo.
+_Liste os artefatos produzidos, com suas localizaçãoes e descrição do conteúdo._
 
 
-* `/atas` - Pasta de Atas de reunião.
-* `/processos` - Pasta com os modelos de processo de negócio.
-* `/dados ` - Pasta com os modelos de dados.
+* [`/processes`](processes/README.md) - Pasta com os modelos de processo de negócio.
+* [`/database `](database/README.md) - Pasta com os modelos de dados.
 
