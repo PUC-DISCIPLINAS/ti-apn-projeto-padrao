@@ -5,8 +5,8 @@ Este diretório mantém os artefatos relatório à modelagem de dados do projeto
 Os principais documentos a serem produzidos são:
 
 
-* [`Entity-Relation Diagram`](DER.svg)
-	* Apresentar o DER em imagem vetorial para eviar perda de qualidade com renderização em resolução específica.
+* [`Entity-Relation Diagram`](DER.erd)
+	* Apresentar o DER em arquivo editável no formato com patível com a ferramenta utilizada pela a equipe.
 
 * [`database_creation_script.sql`](database_creation_script.sql)
 	* Script de criação do banco de dados.

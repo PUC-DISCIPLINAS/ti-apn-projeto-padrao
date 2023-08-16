@@ -16,6 +16,7 @@
 Professores:
 
 ** Prof. Nome do Prof 1 **
+
 ** Prof. Nome do Prof 2 **
 
 ---
@@ -34,7 +35,7 @@ mostrar algum resultado relevante do trabalho (até 10 linhas)._
 
 ## 1. Introdução
 
-_A introdução deve apresentar de dois a quatro parágrafos de contextualização do trabalho._
+_Apresente uma frase introdutória definindo o que será apresentado._
 
 ### 1.1 Contextualização
 
@@ -44,7 +45,7 @@ A citação de pesquisas quantitativas é bem aceita aqui (corretamente referenc
 
 ### 1.2 Problema
 
-_Em seguida o aluno deve caminhar a contextualização para descrever o **problema** que o artigo trata. 
+_Em seguida o aluno deve caminhar a contextualização para descrever o **problema** que o trabalho trata. 
 O **problema** pode ser algo vivido em uma empresa específica. Neste caso, o aluno deve rapidamente apresentar 
 o cenário de problema da empresa. A empresa só deve ser citada explicitamente se o aluno tiver autorização 
 para tal._
@@ -52,7 +53,7 @@ para tal._
 ### 1.3 Objetivo geral
 
 _O aluno deve escrever um pequeno parágrafo ou frase com o **objetivo geral** do trabalho. 
-O objetivo deve ser bem direto, específico e definido com verbos de ação (elaborar, propor, ava-liar, comparar etc.)._
+O objetivo deve ser bem direto, específico e definido com verbos de ação (elaborar, propor, ava-liar, comparar etc.). No caso específico deste projeto, o objetivo deste trabalho é desenvolver um sistema para automação de processos para um problema específico._
 
 #### 1.3.1 Objetivos específicos
 
@@ -66,7 +67,7 @@ desenvolvimento do seu trabalho e, caso deseje, desta-que alguma contribuição 
 
 ## 2. Participantes do processo
 
-_Apresente aqui os diferentes perfis dos Stakeholders (participantes do processo) chave do sistema. Diversas são as informações que podem ser relevantes para a definição dos perfis dos usuários, tais como idade, gênero, aspectos culturais, nível de educação, entre outros. A pesquisa de mercado pode ser uma ferramenta poderosa para se identificar e caracterizar os perfis de usuários._
+_Apresente aqui os perfis dos usuários chave do sistema. Diversas são as informações que podem ser relevantes para a definição dos perfis dos usuários, tais como idade, gênero, aspectos culturais, nível de educação, entre outros. A pesquisa de mercado pode ser uma ferramenta poderosa para se identificar e caracterizar os perfis de usuários. Apresente claramente o papel a ser desempenhado por cada usuário._
 
 ## 3. Modelagem do processo de negócio
 
