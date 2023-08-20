@@ -7,9 +7,9 @@
 
 **Nome completo do Aluno 3, email do aluno 3**
 
-**Nome completo do Aluno 4, email do aluno 3**
+**Nome completo do Aluno 4, email do aluno 4**
 
-**Nome completo do Aluno 5, email do aluno 3**
+**Nome completo do Aluno 5, email do aluno 5**
 
 ---
 
@@ -19,11 +19,13 @@ Professores:
 
 ** Prof. Nome do Prof 2 **
 
+** Prof. Nome do Prof 3 **
+
 ---
 
 _Curso de Engenharia de Software, Unidade Praça da Liberdade_
 
-_Instituto de Informática e Ciências Exatas – Pontifícia Universidade de Minas Gerais (PUC MINAS), Belo Horizonte – MG – Brasil_
+_Instituto de Informática e Ciências Exatas – Pontifícia Universidade Católica de Minas Gerais (PUC MINAS), Belo Horizonte – MG – Brasil_
 
 ---
 
@@ -53,7 +55,7 @@ para tal._
 ### 1.3 Objetivo geral
 
 _O aluno deve escrever um pequeno parágrafo ou frase com o **objetivo geral** do trabalho. 
-O objetivo deve ser bem direto, específico e definido com verbos de ação (elaborar, propor, ava-liar, comparar etc.). No caso específico deste projeto, o objetivo deste trabalho é desenvolver um sistema para automação de processos para um problema específico._
+O objetivo deve ser bem direto, específico e definido com verbos de ação (elaborar, propor, avaliar, comparar, etc.). No caso específico deste projeto, o objetivo deste trabalho é desenvolver um sistema para automação de processos para um problema específico._
 
 #### 1.3.1 Objetivos específicos
 
@@ -63,7 +65,7 @@ concentrar a sua prática investigativa, ou como você vai aprofundar no seu tra
 ### 1.4 Justificativas
 
 _Mostre também as **justificativas** para o 
-desenvolvimento do seu trabalho e, caso deseje, desta-que alguma contribuição do trabalho._
+desenvolvimento do seu trabalho e, caso deseje, destaque alguma contribuição do trabalho._
 
 ## 2. Participantes do processo
 
@@ -73,13 +75,13 @@ _Apresente aqui os perfis dos usuários chave do sistema. Diversas são as infor
 
 ### 3.1. Análise da situação atual
 
-_Apresente uma descrição textual de como os sistemas atuais resolvem o problema que se propoe a resolver.  Caso sua proposta seja inovadora e não existam processos claramente definidos, **apresente como as tarefas que o seu sistema pretende implementar são executadas atualmente**, mesmo que não se utilize tecnologia computacional._
+_Apresente uma descrição textual de como os sistemas atuais resolvem o problema que se propõe a resolver.  Caso sua proposta seja inovadora e não existam processos claramente definidos, **apresente como as tarefas que o seu sistema pretende implementar são executadas atualmente**, mesmo que não se utilize tecnologia computacional._
 
-### 3.2. Descrição Geral da proposta
+### 3.2. Descrição geral da proposta
 
 _Apresente aqui uma descrição da sua proposta abordando seus limites e suas ligações com as estratégias e objetivos do negócio. Apresente aqui as oportunidades de melhorias._
 
-### 3.3. Modelagem dos Processos
+### 3.3. Modelagem dos processos
 
 [PROCESSO 1 - Nome do Processo](processo-1-nome-do-processo.md "Detalhamento do Processo 1.")
 
@@ -93,7 +95,7 @@ _Apresente aqui uma descrição da sua proposta abordando seus limites e suas li
 
 [PROCESSO 6 - Nome do Processo](processo-6-nome-do-processo.md "Detalhamento do Processo 6.")
 
-## 4. Projeto da Solução
+## 4. Projeto da solução
 
 O documento a seguir apresenta o detalhamento do projeto da solução. São apresentadas cinco seções que descrevem, respectivamente: diagrama de classes, diagrama de componentes, diagrama de entidade-relacionamento, tecnologias utilizadas e guias de estilo.
 
