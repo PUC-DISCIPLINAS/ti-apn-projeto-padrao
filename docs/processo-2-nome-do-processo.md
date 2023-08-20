@@ -1,6 +1,6 @@
 ### 3.3.2 Processo 2 – NOME DO PROCESSO
 
-Apresente aqui o nome e as oportunidades de melhorias para o processo 2. 
+Apresente aqui o nome e as oportunidades de melhoria para o processo 2. 
 Em seguida, apresente o modelo do processo 2, descrito no padrão BPMN.
 
 ![Exemplo de um Modelo BPMN do PROCESSO 2](images/process.png "Modelo BPMN do Processo 2.")
@@ -8,12 +8,12 @@ Em seguida, apresente o modelo do processo 2, descrito no padrão BPMN.
 
 #### Detalhamento das atividades
 
-Descrever aqui cada uma das propriedades das atividades do processo 2. 
+Descreva aqui cada uma das propriedades das atividades do processo 2. 
 Devem estar relacionadas com o modelo de processo apresentado anteriormente.
 
 Os tipos de dados a serem utilizados são:
 
-* **Área de texto** - Campo texto de múltiplas linhas
+* **Área de texto** - campo texto de múltiplas linhas
 * **Caixa de texto** - campo texto de uma linha
 * **Número** - campo numérico
 * **Data** - campo do tipo data (dd-mm-aaaa)
