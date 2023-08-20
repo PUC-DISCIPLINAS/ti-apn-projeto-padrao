@@ -1,6 +1,6 @@
 ## 5. Indicadores de desempenho
 
-_Apresente aqui os principais indicadores de desempenho e algumas metas para o processo. Atenção: as informações necessárias para gerar os indicadores devem estar contempladas no diagrama de classe. Colocar no mínimo 5 indicadores. Devem ser apresentados no mínimo 6 indicadores de desempenho._
+_Apresente aqui os principais indicadores de desempenho e algumas metas para o processo. Atenção: as informações necessárias para gerar os indicadores devem estar contempladas no diagrama de classes e no DER. Colocar no mínimo 5 indicadores._
 
 Perspectivas de medidas de avaliação de desempenho de processos:
 
@@ -19,4 +19,4 @@ _Usar o seguinte modelo:_
 | Taxa de Requisições abertas | Melhorar a prestação de serviços medindo a porcentagem de requisições | Mede % de requisições atendidas na semana | Tabela solicitações | Processos internos |
 | Taxa de entrega de material | Manter controle sobre os materiais que estão sendo entregues | Mede % de material entregue dentro do mês | Tabela Pedidos | Clientes |
 
-Obs.: todas as informações para gerar os indicadores devem estar no diagrama de classe e no DER.
+Obs.: todas as informações para gerar os indicadores devem estar no diagrama de classes e no DER.
