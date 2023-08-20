@@ -12,7 +12,7 @@ Devem estar relacionadas com o modelo de processo apresentado anteriormente.
 
 Os tipos de dados a serem utilizados são:
 
-* **Área de texto** - Ccmpo texto de múltiplas linhas
+* **Área de texto** - campo texto de múltiplas linhas
 * **Caixa de texto** - campo texto de uma linha
 * **Número** - campo numérico
 * **Data** - campo do tipo data (dd-mm-aaaa)
